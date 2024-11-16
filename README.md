@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" **alt="NEXT" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" **alt="NuxtJS" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="100" height="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/postgresql-original-wordmark.svg" title="Python" **alt="Python" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/postgresql-original-wordmark.svg" title="PostgresQL" **alt="PostgresQL" width="100" height="100"/>
 </div>
 
 ---
